@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .hide-mobile {
+    display: none !important;
+  }
+
+  .stack-mobile {
+    flex-direction: column !important;
+  }
+
+  .center-mobile {
+    text-align: center !important;
+  }
+}
